@@ -1,0 +1,20 @@
+{
+  "name": "igreja-athos",
+  "version": "1.0.0",
+  "description": "Athos Church website, a church to love and be loved",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Athos",
+    "Church",
+    "Igreja",
+    "Amor"
+  ],
+  "author": "Ludson Francisco",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
